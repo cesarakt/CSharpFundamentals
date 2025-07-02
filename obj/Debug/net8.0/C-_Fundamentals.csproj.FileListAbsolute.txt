@@ -1,0 +1,15 @@
+C:\Users\CesarMazzaro\Documents\Cesar\Fundamentos .NET_C#\C-_Fundamentals\bin\Debug\net8.0\C-_Fundamentals.exe
+C:\Users\CesarMazzaro\Documents\Cesar\Fundamentos .NET_C#\C-_Fundamentals\bin\Debug\net8.0\C-_Fundamentals.deps.json
+C:\Users\CesarMazzaro\Documents\Cesar\Fundamentos .NET_C#\C-_Fundamentals\bin\Debug\net8.0\C-_Fundamentals.runtimeconfig.json
+C:\Users\CesarMazzaro\Documents\Cesar\Fundamentos .NET_C#\C-_Fundamentals\bin\Debug\net8.0\C-_Fundamentals.dll
+C:\Users\CesarMazzaro\Documents\Cesar\Fundamentos .NET_C#\C-_Fundamentals\bin\Debug\net8.0\C-_Fundamentals.pdb
+C:\Users\CesarMazzaro\Documents\Cesar\Fundamentos .NET_C#\C-_Fundamentals\obj\Debug\net8.0\C-_Fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CesarMazzaro\Documents\Cesar\Fundamentos .NET_C#\C-_Fundamentals\obj\Debug\net8.0\C-_Fundamentals.AssemblyInfoInputs.cache
+C:\Users\CesarMazzaro\Documents\Cesar\Fundamentos .NET_C#\C-_Fundamentals\obj\Debug\net8.0\C-_Fundamentals.AssemblyInfo.cs
+C:\Users\CesarMazzaro\Documents\Cesar\Fundamentos .NET_C#\C-_Fundamentals\obj\Debug\net8.0\C-_Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\CesarMazzaro\Documents\Cesar\Fundamentos .NET_C#\C-_Fundamentals\obj\Debug\net8.0\C-_Fundamentals.sourcelink.json
+C:\Users\CesarMazzaro\Documents\Cesar\Fundamentos .NET_C#\C-_Fundamentals\obj\Debug\net8.0\C-_Fundamentals.dll
+C:\Users\CesarMazzaro\Documents\Cesar\Fundamentos .NET_C#\C-_Fundamentals\obj\Debug\net8.0\refint\C-_Fundamentals.dll
+C:\Users\CesarMazzaro\Documents\Cesar\Fundamentos .NET_C#\C-_Fundamentals\obj\Debug\net8.0\C-_Fundamentals.pdb
+C:\Users\CesarMazzaro\Documents\Cesar\Fundamentos .NET_C#\C-_Fundamentals\obj\Debug\net8.0\C-_Fundamentals.genruntimeconfig.cache
+C:\Users\CesarMazzaro\Documents\Cesar\Fundamentos .NET_C#\C-_Fundamentals\obj\Debug\net8.0\ref\C-_Fundamentals.dll
